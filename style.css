@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.header {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero {
+   background-color: #1F2937;
+   width: 100%;
+   height: fit-content;
+   font-size: 48px;
+   font-weight: bolder;
+   color: #F9FAF8; 
+}
+
+.information {
+    width: 100%;
+    height: fit-content;
+    background-color: #F9FAF8;
+}
+
+.quote {
+    width: 100%;
+    height:fit-content;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.button-section {
+    background-color: #F9FAF8;
+
+}
